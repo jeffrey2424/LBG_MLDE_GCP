@@ -1,0 +1,10 @@
+[
+    {"name": "cat", "val": "1"},
+    {"name": "dog", "val": "5"},
+    {"name": "giraffe", "val": "6"},
+    {"name": "elefant", "val": "6"},
+    {"name": "giraffe", "val": "16"},
+    {"name": "elefant", "val": "3"},
+    {"name": "dog", "val": "1"},
+    {"name": "cat", "val": "9"},
+]
