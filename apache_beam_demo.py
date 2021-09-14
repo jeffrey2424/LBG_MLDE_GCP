@@ -22,7 +22,7 @@ def text_to_json(json_text):
     return json.loads(json_text)
 
 
-input_file = './input_data_no_comma.json'
+input_file = './input_data_reformat.json'
 output_file = './output_data'
 
 pipelineOptions = PipelineOptions(
